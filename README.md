@@ -28,15 +28,15 @@
   - No Frameworks: Pure vanilla implementation for optimal performance
 
 **Setup & Run Instructions:-**
-  ***Local Development:***
-      - Download or clone the project files
-      - Open index.html in any modern web browser
-      - No build process or dependencies required
+**Local Development:**
+  - Download or clone the project files
+  - Open index.html in any modern web browser
+  - No build process or dependencies required
 
-  ***Web Deployment:***
-      - Upload all files to your web server
-      - Ensure all file paths remain consistent
-      - The site will work immediately without configuration
+**Web Deployment:**
+  - Upload all files to your web server
+  - Ensure all file paths remain consistent
+  - The site will work immediately without configuration
 
 **Customization:-**
   - Modify content in the HTML files
