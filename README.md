@@ -62,10 +62,10 @@
     Programs showcase with interactive cards and detailed modal information
 
 **Demo Link:-**
-Live Demo: https://abd-0412.github.io/anshumat-foundation/
+- Live Demo: https://abd-0412.github.io/anshumat-foundation/
 
 **Repository Link:-**
-GitHub Repository: github.com/abd-0412/anshumant-foundation
+- GitHub Repository: https://github.com/abd-0412/anshumant-foundation/
 
 **Personal Notes:-**
   This project was personally designed and developed by me from concept to implementation. The design focuses on creating an engaging user experience while maintaining the professional credibility expected from a non-profit organization.
