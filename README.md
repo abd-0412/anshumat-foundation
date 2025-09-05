@@ -5,9 +5,9 @@
   A modern, responsive website for a non-profit organization dedicated to knowledge sharing and mentorship programs. This platform showcases the foundation's mission, values, and initiatives through an engaging, user-friendly interface with nature-inspired design elements.
 
 **Created by: ABDUL AJEES M |
-Email: abdajees01@gmail.com
-LinkedIn Profile: https://www.linkedin.com/in/abdul-ajees-m/
-Date: 05.09.2025**
+Email: abdajees01@gmail.com |
+LinkedIn Profile: https://www.linkedin.com/in/abdul-ajees-m/ |
+Date: 05.09.2025** 
 
 **Features**
   >> Responsive Design: Fully adaptive layout for all device sizes
