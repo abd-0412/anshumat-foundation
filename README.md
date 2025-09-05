@@ -10,15 +10,15 @@
 **Date: 05.09.2025** 
 
 **Features**
-  >> Responsive Design: Fully adaptive layout for all device sizes
-  >> Interactive Program Showcase: Modal popups with detailed program information
-  >> Dark/Light Mode Toggle: User preference-based theme switching
-  >> Nature-Inspired Animations: Floating leaf elements and smooth transitions
-  >> Form Validation: Contact form with real-time validation
-  >> Quote Rotator: Inspirational quotes that cycle automatically
-  >> Smooth Scrolling Navigation: Seamless section-to-section navigation
-  >> Social Media Integration: Links to all social platforms
-  >> Newsletter Subscription: Email capture for updates
+  - Responsive Design: Fully adaptive layout for all device sizes
+  - Interactive Program Showcase: Modal popups with detailed program information
+  - Dark/Light Mode Toggle: User preference-based theme switching
+  - Nature-Inspired Animations: Floating leaf elements and smooth transitions
+  - Form Validation: Contact form with real-time validation
+  - Quote Rotator: Inspirational quotes that cycle automatically
+  - Smooth Scrolling Navigation: Seamless section-to-section navigation
+  - Social Media Integration: Links to all social platforms
+  - Newsletter Subscription: Email capture for updates
 
 **Technology Stack:-**
   >> Frontend: HTML5, CSS3, JavaScript (ES6+)
