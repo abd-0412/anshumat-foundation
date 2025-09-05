@@ -21,28 +21,28 @@
   - Newsletter Subscription: Email capture for updates
 
 **Technology Stack:-**
-  >> Frontend: HTML5, CSS3, JavaScript (ES6+)
-  >> Layout: CSS Flexbox and Grid
-  >> Icons: Font Awesome
-  >> Images: Unsplash (high-quality, royalty-free)
-  >> No Frameworks: Pure vanilla implementation for optimal performance
+  - Frontend: HTML5, CSS3, JavaScript (ES6+)
+  - Layout: CSS Flexbox and Grid
+  - Icons: Font Awesome
+  - Images: Unsplash (high-quality, royalty-free)
+  - No Frameworks: Pure vanilla implementation for optimal performance
 
 **Setup & Run Instructions:-**
   ***Local Development:***
-      >> Download or clone the project files
-      >> Open index.html in any modern web browser
-      >> No build process or dependencies required
+      - Download or clone the project files
+      - Open index.html in any modern web browser
+      - No build process or dependencies required
 
   ***Web Deployment:***
-      >> Upload all files to your web server
-      >> Ensure all file paths remain consistent
-      >> The site will work immediately without configuration
+      - Upload all files to your web server
+      - Ensure all file paths remain consistent
+      - The site will work immediately without configuration
 
 **Customization:-**
-  >> Modify content in the HTML files
-  >> Adjust colors by changing CSS custom properties
-  >> Replace images with your own assets
-  >> Update program information in the JavaScript section
+  - Modify content in the HTML files
+  - Adjust colors by changing CSS custom properties
+  - Replace images with your own assets
+  - Update program information in the JavaScript section
 
 **Screenshots**
   ***Hero Section:***
@@ -68,13 +68,13 @@ Live Demo: https://abd-0412.github.io/anshumat-foundation/
 GitHub Repository: github.com/abd-0412/anshumant-foundation
 
 **Personal Notes:-**
-This project was personally designed and developed by me from concept to implementation. The design focuses on creating an engaging user experience while maintaining the professional credibility expected from a non-profit organization.
+  This project was personally designed and developed by me from concept to implementation. The design focuses on creating an engaging user experience while maintaining the professional credibility expected from a non-profit organization.
   ***Special attention was given to:***
-      >> Creating a unique visual identity with a nature-inspired theme
-      >> Implementing smooth animations and transitions
-      >> Ensuring full responsiveness across all device types
-      >> Building accessible components that work for all users
-      >> Writing clean, maintainable code without relying on external frameworks
+      - Creating a unique visual identity with a nature-inspired theme
+      - Implementing smooth animations and transitions
+      - Ensuring full responsiveness across all device types
+      - Building accessible components that work for all users
+      - Writing clean, maintainable code without relying on external frameworks
 
 **Acknowledgement:-**
   This project was created to support the noble mission of Anshumat Foundation in promoting education and mentorship opportunities. Special thanks to the open-source community for resources and inspiration that made this project possible.
